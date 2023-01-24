@@ -1,0 +1,9 @@
+# <bitbar.title>SSH OneClick</bitbar.title>
+# <bitbar.version>v1.0</bitbar.version>
+# <bitbar.author>BtKent</bitbar.author>
+# <bitbar.desc>Connect to SSH with one click .</bitbar.desc>
+# <swiftbar.hideAbout>true</swiftbar.hideAbout>
+# <swiftbar.hideRunInTerminal>true</swiftbar.hideRunInTerminal>
+# <swiftbar.hideLastUpdated>true</swiftbar.hideLastUpdated>
+# <swiftbar.hideDisablePlugin>true</swiftbar.hideDisablePlugin>
+# <swiftbar.hideSwiftBar>true</swiftbar.hideSwiftBar>
