@@ -1,6 +1,5 @@
 # Swiftbarssh
 
----
 
 This is a small tool that read the SSH config file and display each host as a list.
 
@@ -29,4 +28,6 @@ Host "Displayed Name for host"
 - Clone the repo
 - Change the `displayedText` and `configFile` in the `main.go` file
 - Run `$ cd <path_to_repo> && go build .`
+- Edit `metadata.txt` if you want to change the details
+- Run `$ xattr -w "com.ameba.SwiftBar" "$(cat metadata.txt | base64)" swiftbarssh`
 - Move the output file to the SwiftBar folder
